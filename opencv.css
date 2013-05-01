@@ -1,0 +1,77 @@
+html, body {
+margin-left: 20%;
+padding: 0%;
+height: 100%;
+width: 60%;
+font-family: Arial, Verdana;
+font-size:13px;
+color:#000;
+background:#fff;
+background: url("images/center_block_center.jpg");
+}
+
+h1 {
+color : #000000;
+padding-top: 30px;
+text-decoration : underline;
+}
+
+
+h2 {
+color : #000000;
+}
+
+
+body {
+color : #000000;
+text-align : left;
+}
+
+
+A {
+text-decoration: underline;
+color:#0057AE;
+}
+
+
+A:visited {
+text-decoration: underline;
+color:#0057AE;
+}
+
+
+A:hover {
+text-decoration: none;
+color:#0057AE;
+}
+
+
+p {
+text-align : justify;
+text-indent : 20px;
+}
+
+
+hr {
+border-bottom-color : #ffffff;
+border-bottom-style : solid;
+border-left-color : #ffffff;
+border-left-style : solid;
+border-right-color : #ffffff;
+border-right-style : solid;
+border-top-color : #ffffff;
+border-top-style : solid;
+color : #ffffff;
+}
+
+li {
+list-style-type : circle;
+}
+
+
+img {
+border-bottom-style : none;
+border-left-style : none;
+border-right-style : none;
+border-top-style : none;
+}
