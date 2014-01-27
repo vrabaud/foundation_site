@@ -1,8 +1,9 @@
 html, body {
-margin-left: 20%;
+margin-left: auto;
+margin-right: auto;
 padding: 0%;
 height: 100%;
-width: 60%;
+width: 800px;
 font-family: Arial, Verdana;
 font-size:13px;
 color:#000;
